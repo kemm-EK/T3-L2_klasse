@@ -1,0 +1,9 @@
+div {
+  width: 200px;
+  aspect-ratio: 1/1;
+  background-color: antiquewhite;
+  transition: transform 0.6s;
+}
+div:hover {
+  transform: translateX(100%);
+}
